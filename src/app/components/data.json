@@ -1,110 +1,137 @@
 [
   {
     "Questions": "How to Edit or Update Agent Details",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To edit any details in an agency, follow these steps: Go to the 'Agency Master' option on the Home screen and click on it. Here, you will see all the agencies you have created. Each agency has an 'Edit' button, so click on the one you want to edit. Update the required details such as Agent Name and Date of Birth (DOB). After filling in the correct details, click on 'Save Agent Details' to save the changes. Feel free to ask anything else."
   },
   {
     "Questions": "How to delete any agency?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Click on the first option ‘Agency Master’ on the homepage. Here you will see all existing agencies. To delete an agency, you will see a ‘Delete’ button on every agency. Select and click on the ‘Delete’ button. Your selected agency will be deleted."
   },
   {
     "Questions": "How Can I Change My Agency Password If I've Forgotten It?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "If You've Forgotten Your Agency Password, No Problem! Go to 'Agency Master' on the Homepage, Select Your Agency, Click on 'Forget Password? Click Here to Reset' Button, Enter a New Password, and Confirm by Clicking 'Accept'. OTP Will Be Sent on Registered Mobile No. After OTP Verification, Your Password Will Be Reset."
   },
   {
     "Questions": "How Can I Create A New MPIN?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To create a new MPIN, navigate to the 'Agency Master' option on the homepage. Select the agency, then choose 'By MPIN' option and click on 'Create New MPIN' after successful OTP verification your MPIN will be created."
   },
   {
     "Questions": "How Do I Update FUP Easily?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To update FUP easily, start by going to the homepage and clicking on 'Agency Master'. From there, select the relevant agency and proceed to click on the 6th option 'FUP Update'. OTP will be sent to the registered mobile number. After OTP verification, FUP will be updated successfully."
   },
   {
     "Questions": "How To Recover Mpin?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To recover Mpin, click on first option ‘Agency Master’ on homepage. Here you will see all existing agencies. Select agency which Mpin you want to recover and click on agency, select ‘By Mpin’ option and here you will see ‘Recover Mpin’ button click on it. OTP will be sent on registered mobile no after OTP verification. You can recover your Mpin easily."
   },
   {
     "Questions": "How to Download Agency Data?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Click on First Option ‘Agency Master’ on Homepage, Here You Will See All Existing Agencies. To Download Agency Data, You Will See ‘Download’ Button on Every Agency, Select and Click on ‘Download’ Button, Here You Will See Two Options First ‘By OTP’ and Second ‘By MPIN’. You Can Choose Any Option You Want. If You Choosing ‘By OTP’ Option Then Click on ‘New Policy Download/FUP Update’ Button. OTP Will Be Sent on Registered Mobile After OTP Verification Your Data Will Be Downloaded and If You Are Choosing ‘By MPIN’ Option Enter Details and MPIN, Then Click on ‘New Policy Download/FUP Update’ Button and Your Agency Data Will Start Downloading."
   },
   {
     "Questions": "How Can I See All The Agencies Using The App?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Access the 'Agency Master' option on the homepage to view all the agencies currently registered in the app."
   },
   {
     "Questions": "How To Create New Agency In App",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Starting A New Agency Is Easy. Just Go To The Homepage, Select 'Agency Master,' Click On The Plus Button Near The Search Icon. Here You Need To Enter Agent Name, Agent Mobile No, Enter Agent Code+Branch Code, Create Password And Enter Date Of Birth Of Agent. Then Click On 'Save Agents Details' Button. New Agency Will Be Saved Successfully."
   },
   {
     "Questions": "How To Check Grace Period Reports Or GRP Reports?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Go To The Home Screen And Select 'Personal Reports,' Which Is The Sixth Option. You'll See Various Personal Reports There. To Access Grace Period Reports Or GRP Reports, Click On The Second Option 'Grace Period Report.' Your Desired Reports Will Be Displayed."
   },
   {
     "Questions": "How Can I Find The Premium Due Report Or PDR Reports?",
+    "tags":"agency master delete agent details delete agency Details delete agent",
     "Answers": "To Locate These Reports, Navigate To The Home Screen And Select The 6th Option 'Personal Reports'. Here, You'll Find Different Types Of Personal Reports. For The Premium Due Report Or PDR, Select The First Option 'Premium Due Report'. Then, Choose The Agency, Select The Date Range, And Click On 'Show' Button. Your Premium Report Will Be Visible Here."
   },
   {
     "Questions": "Where I Can Find All Personal Reports?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Select the 6th Option 'Personal Reports' on the Home Screen. Here You Will Find Various Types of Your Personal Reports."
   },
   {
     "Questions": "How To Find Or Search A Policy?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Simply! Navigate To The Home Screen And Choose The Fifth Option, 'Search Policy.' Enter The Policy Number Or The Name Of The Policy Holder. Your Policy Details Will Be Displayed Here."
   },
   {
     "Questions": "How to Add a New Policy or Policy Holder?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To add a new policy, simply go to the home screen and choose 'Add Service Policy'. Fill out required details such as policy holder name, their mobile number, date of birth, date of commencement, plan number, term, premium paying term, sum assured, premium amount, FUP date, maturity date, payment mode, status, and address. After filling out these details, click on the 'Submit' button. Your newly created policy will be saved automatically."
   },
   {
     "Questions": "How to Delete or Remove Policy Holder or Agent?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Click on the 'Show Data' option on the homescreen. This will showcase a list of all policy holders. Every agent box has a 'Delete' button. Click on it, and your agent will be deleted."
   },
   {
     "Questions": "How to check outstanding reports?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6rd option 'Personal Reports'. Here, you'll find different types of personal reports. For the outstanding report, select the 3rd option 'Outstanding Report'. Your outstanding report will be visible here."
   },
   {
     "Questions": "How to Check Lapse Policy Report?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the lapse policy report, select the 4rd option 'Lapse Policy Report'. Your lapse policy report will be visible here."
   },
   {
     "Questions": "How to check current month lapse policy report?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the current month lapse policy report, select the 5rd option 'Current Month Lapse Policy Report'. Your current month lapse policy report will be visible here."
   },
   {
     "Questions": "How to Check All Policies Report?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the All Policies Report, select the 6th option 'All Policies Report'. Your All Policies will be visible here."
   },
   {
     "Questions": "How to Check Status of Any Policy?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To check status of policy, go to 8th option on homepage and then select 'I option' or 'II option' on your choice. If you are selecting 'I option' then you need to enter only policy number and click on 'Check Status' button. Or if you are choosing 'II option' then you need to enter policy number and date of birth of policy holder after it click on same button. Your policy status will be displayed."
   },
   {
     "Questions": "How to check Inforce Report",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate this report, navigate to the home screen and select the sixth option, 'Personal Reports.' Here, you'll find different types of personal reports. For the Inforce Report, select the eighth option, 'Inforce Report.' Your Inforce Report will be visible here."
   },
   {
     "Questions": "How to check Single Report",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the Single Report, select the 9th option 'Single Report'. Your Single Report will be visible here."
   },
   {
     "Questions": "How to Check All Closed Report",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the All Closed Report, select the 10th option 'All Closed Report'. Your All Closed Report will be visible here."
   },
   {
     "Questions": "How to check SB Report",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the SB Report, select the 11th option 'SB Report'. Here you need to select that agency which you want to see SB Report and then select date range and after it click on 'Show' button. Your SB Report will be visible here."
   },
   {
     "Questions": "How to Check Maturity Report",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "To locate these reports, navigate to the home screen and select the 6th option 'Personal Reports'. Here, you'll find different types of personal reports. For the Maturity Report, select the 12th option 'Maturity Report'. Here you need to select that agency which you want to see maturity report and then select date range and after it click on 'Show' button. Your maturity report will be visible here."
   },
   {
     "Questions": "Why You Need ArtMitra App",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers": "Introducing ArtMitra App, the essential app for agents seeking streamlined access to policy information and reports. With its intuitive interface, agents can effortlessly navigate through various reports, including the Maturity Report, empowering them to stay informed and efficient. Say goodbye to policy tensions and hello to a smoother workflow with ArtMitra App, your trusted companion in the insurance landscape."
   },
   {
     "Questions":"How ArtMitra App is Helpful For Agents?",
+    "tags":"agency master master delete agent details delete agency Details delete agent",
     "Answers":"ArtMitra App is the ultimate solution for agents, offering easy access to policy information and reports. Its user-friendly interface simplifies navigation, allowing agents to stay informed and efficient. With ArtMitra App, agents can wave goodbye to policy tensions and embrace a smoother workflow, making it their go-to tool in the insurance industry."
   }
 ]

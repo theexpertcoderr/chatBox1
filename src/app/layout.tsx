@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import ChatBox from '@/app/components/ChatBox'
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,8 +17,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" style={{height:"100%"}}>
+      <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"/>
+      </head>
+      <body style={{background:'pink',overflow:'hidden',height:"100%"}} className={inter.className}>
+        
+        <div><ChatBox/></div>{children}</body>
     </html>
   );
 }
