@@ -17,13 +17,22 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" style={{height:"100%"}}>
+    <html lang="en" style={{ height: "100%" }}>
       <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+        />
       </head>
-      <body style={{background:'pink',overflow:'hidden',height:"100%"}} className={inter.className}>
+      <body style={{ background: 'white', overflow: 'hidden', height: "100vh" }} className={inter.className}>
+
+        <div><ChatBox /></div>{children}
         
-        <div><ChatBox/></div>{children}</body>
+        
+        <script>
+          
+        </script>
+        </body>
     </html>
   );
 }
